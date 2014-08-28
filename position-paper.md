@@ -3,12 +3,13 @@
 # おんがえし(ongaeshi) 
 ![icon](http://www.gravatar.com/avatar/6377451175704e2d367ce508bffc1fa5)
 
-おんがえしといいます。趣味で色々と作って公開しています。趣味も仕事もEmacsが無いと話になりません。
+おんがえしといいます。趣味で色々と作って公開しています。<br>
+趣味も仕事もEmacsが無いと話になりません。
 
 ## Contacts
-Web: http://ongaeshi.me
-Twitter: https://twitter.com/ongaeshi
-Blog: http://ongaeshi.hatenablog.com/
+- Web: http://ongaeshi.me
+- Twitter: https://twitter.com/ongaeshi
+- Blog: http://ongaeshi.hatenablog.com/
 
 ## 好きなelisp
 - anything
@@ -22,5 +23,8 @@ Blog: http://ongaeshi.hatenablog.com/
 - duplicate-thing
 
 ## 近況
-王様達のヴァイキングという漫画が最近お気に入りです。(主人公はEmacs使いではないかとの噂あり)
-Milkodeというソースコード検索エンジンを作っています。(私がEmacs使いなので)Emacsとの親和性もよいので是非使ってみて下さい。
+王様達のヴァイキングというハッカー漫画が面白いです。<br>
+(主人公のエディタはEmacsとの噂あり)
+
+Milkodeというソースコード検索エンジンを作っています。<br>
+(私がEmacs使いなので)Emacsとの親和性もよいので是非使ってみて下さい。
