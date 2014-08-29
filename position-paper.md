@@ -4,7 +4,7 @@
 ![icon](http://www.gravatar.com/avatar/6377451175704e2d367ce508bffc1fa5)
 
 おんがえしといいます。趣味で色々と作って公開しています。<br>
-趣味も仕事もEmacsが無いと話になりません。
+趣味も仕事もEmacsが無いとなにも出来ません。
 
 - Web: http://ongaeshi.me
 - Twitter: https://twitter.com/ongaeshi
