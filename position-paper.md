@@ -11,16 +11,16 @@
 - Blog: http://ongaeshi.hatenablog.com/
 
 ## 好きなelisp
-- windows.el
-- auto-complete
-- anything
-- anzu
+- windows.el (マルチ仮想ウィンドウ)
+- auto-complete (補完)
+- anything (バッファ切り替え)
+- anzu (置換プレビュー)
 
 ## 過去に作ったelisp
-- auto-shell-command
-- milkode.el
-- vim-region
-- duplicate-thing
+- duplicate-thing (1ボタンで複製)
+- vim-region (選択範囲をVimっぽく操作)
+- milkode.el (検索)
+- auto-shell-command (ファイルセーブ時に任意のコマンドを実行)
 
 ## 近況
 王様達のヴァイキングというハッカー漫画が面白いです。<br>
