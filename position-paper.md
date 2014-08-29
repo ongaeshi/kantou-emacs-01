@@ -6,15 +6,15 @@
 おんがえしといいます。趣味で色々と作って公開しています。<br>
 趣味も仕事もEmacsが無いと話になりません。
 
-## Contacts
 - Web: http://ongaeshi.me
 - Twitter: https://twitter.com/ongaeshi
 - Blog: http://ongaeshi.hatenablog.com/
 
 ## 好きなelisp
+- windows.el
+- auto-complete
 - anything
 - anzu
-- windows.el
 
 ## 過去に作ったelisp
 - auto-shell-command
